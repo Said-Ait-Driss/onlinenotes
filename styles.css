@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(images/bg.jpg);
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: cover;
+
+  min-height: 100vh;
+  position: relative;
+}
+
+.sign_up_btn {
+  text-align: center;
+  margin: 100px 180px;
+}
+
+.sign_up_btn p {
+  font-weight: bold;
+  margin: 0 auto;
+  font-size: 2em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  word-spacing: 3px;
+  line-height: 60px;
+}
+
+.footer {
+  background-color: #0f1114;
+  padding: 10px;
+  color: white;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
