@@ -44,13 +44,22 @@
     <div class="row sign_up_btn">
       <p>Your notes with you wherever you go .</p>
       <p>Ease to use .Protect all your notes.</p>
-      <div class="offset-md-3 col-md-4">
+      <div class="offset-md-4 col-md-4">
         <button type="button" class="btn btn-success btn-lg" data-target="#modalmodal" data-toggle="modal">
           Sign up
         </button>
       </div>
     </div>
   </div>
+
+  <!-- footer -->
+  <footer>
+    <div class="footer" id="footer">
+      <div class="container">
+        <p>Copyright &copy; 2022-2022 Online Notes ALL right resirved </p>
+      </div>
+    </div>
+  </footer>
 
   <!--  sign up  modal-->
   <div class="modal" tabindex="-1" id="modalmodal">

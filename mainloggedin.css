@@ -1,0 +1,20 @@
+.mynotes {
+  margin: 137px 0 10px 0;
+  text-align: center;
+}
+
+#done,
+#allnotes {
+  display: none;
+}
+
+textarea {
+  height: 300px;
+  max-height: 300px;
+  width: 100%;
+  background-color: rgba(247, 37, 247, 0.56);
+  border: 1px solid rgba(247, 37, 247, 1);
+  border-left: 14px solid rgba(247, 37, 247, 1);
+  color: rgb(48, 27, 42);
+  padding: 8px;
+}
